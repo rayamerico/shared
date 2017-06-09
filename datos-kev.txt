@@ -1,2 +1,4 @@
 kevQL
 nada en al vista!!
+
+el problema fue resuelto
